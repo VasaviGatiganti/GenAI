@@ -1,0 +1,7 @@
+{
+    "graphs":{
+        "basic-graph":"./main.py:xyz"
+    },
+
+        "dependencies" : ["."]
+}
